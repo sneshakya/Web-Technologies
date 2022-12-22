@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caramel&display=swap');
+#heading{
+font-size: 30px;
+color: blueviolet;
+background-color: black;
+font-family: 'La Belle Aurore', cursive;
+}
+body{
+    background-image: url(dog.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 4000px;
+}
+.paragraph{
+    font-size: 30px;
+    color: darkslateblue;
+    background-color:hotpink;
+}
+#p2{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    background-color:rgb(251, 159, 205);
+    font-family: 'Caramel', cursive;
+}
