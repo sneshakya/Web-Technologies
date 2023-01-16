@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Unbounded&display=swap');
+img{
+max-width:100%;
+height:auto;
+
+}
+.p1{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+    font-weight:100;
+}
+.h1{
+    font-size: 19px;
+    color: rgb(86, 3, 3);
+    font-family: 'Unbounded', cursive;
+}
+.p2{
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    font-family: 'Raleway', sans-serif;
+}
+.button {
+    margin-top: 20px;
+  }
+  .button a {
+    display: inline-block;
+    padding: 10px 50px;
+    background: rgb(241, 190, 190);
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 800;
+    transition: all 0.5s ease;
+  }
+  
+  .button a:hover {
+    background: rgb(78, 6, 6);
+    color: rgb(255, 255, 255);
+  }
+  @media screen and (min-width:769px) and (max-width:1024px) 
+  { 
+    img{
+      max-width:100%;
+height:auto;
+      }
+      .p1{
+          font-size: 20px;
+          color: rgb(255, 255, 255);
+          font-family: 'Raleway', sans-serif;
+          font-weight:100;
+      }
+      .h1{
+          font-size: 19px;
+          color: rgb(86, 3, 3);
+          font-family: 'Unbounded', cursive;
+      }
+      .p2{
+          font-size: 19px;
+          color: rgb(255, 255, 255);
+          font-family: 'Raleway', sans-serif;
+      }
+      .button {
+          margin-top: 20px;
+        }
+        .button a {
+          display: inline-block;
+          padding: 10px 50px;
+          background: rgb(241, 190, 190);
+          border-radius: 30px;
+          text-decoration: none;
+          color: black;
+          font-size: 18px;
+          line-height: 1.4;
+          font-weight: 800;
+          transition: all 0.5s ease;
+        }
+        
+        .button a:hover {
+          background: rgb(78, 6, 6);
+          color: rgb(255, 255, 255);
+        }
+}
+
+    @media screen and(min-width:481px)and (max-width: 768) 
+    {
+      img{
+        max-width:100%;
+        height:auto;
+        }
+        .p1{
+            font-size: 20px;
+            color: rgb(255, 255, 255);
+            font-family: 'Raleway', sans-serif;
+            font-weight:100;
+        }
+        .h1{
+            font-size: 19px;
+            color: rgb(86, 3, 3);
+            font-family: 'Unbounded', cursive;
+        }
+        .p2{
+            font-size: 19px;
+            color: rgb(255, 255, 255);
+            font-family: 'Raleway', sans-serif;
+        }
+        .button {
+            margin-top: 20px;
+          }
+          .button a {
+            display: inline-block;
+            padding: 10px 50px;
+            background: rgb(241, 190, 190);
+            border-radius: 30px;
+            text-decoration: none;
+            color: black;
+            font-size: 18px;
+            line-height: 1.4;
+            font-weight: 800;
+            transition: all 0.5s ease;
+          }
+          
+          .button a:hover {
+            background: rgb(78, 6, 6);
+            color: rgb(255, 255, 255);
+          }
+    }
+    @media screen and(min-width:769px)and (max-width:1024px)
+    {
+      img{
+        max-width:100%;
+height:auto;
+        }
+        .p1{
+            font-size: 20px;
+            color: rgb(255, 255, 255);
+            font-family: 'Raleway', sans-serif;
+            font-weight:100;
+        }
+        .h1{
+            font-size: 19px;
+            color: rgb(86, 3, 3);
+            font-family: 'Unbounded', cursive;
+        }
+        .p2{
+            font-size: 19px;
+            color: rgb(255, 255, 255);
+            font-family: 'Raleway', sans-serif;
+        }
+        .button {
+            margin-top: 20px;
+          }
+          .button a {
+            display: inline-block;
+            padding: 10px 50px;
+            background: rgb(241, 190, 190);
+            border-radius: 30px;
+            text-decoration: none;
+            color: black;
+            font-size: 18px;
+            line-height: 1.4;
+            font-weight: 800;
+            transition: all 0.5s ease;
+          }
+          
+          .button a:hover {
+            background: rgb(78, 6, 6);
+            color: rgb(255, 255, 255);
+          }
+    }

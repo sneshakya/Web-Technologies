@@ -1,0 +1,21 @@
+img{
+    max-width: 100%;
+}
+p{
+    font-size: 30px;
+    color: darkslateblue;
+    background-color:hotpink;
+}
+/* for mobile */
+@media screen and (min-width:769px) and (max-width:1024px) { img{max-width: 100%;}
+    
+}
+/* for tablet */
+    @media screen and(min-width:481px)and (max-width: 768) 
+    {
+        img{max-width: 100%;}
+    }
+    @media screen and(min-width:769px)and (max-width:1024px)
+    {
+        img{max-width: 100%;}
+    }

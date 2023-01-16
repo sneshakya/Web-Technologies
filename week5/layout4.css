@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h1{
+    font-size: 25px;
+    color: rgb(15, 11, 5);
+    font-family: 'Poppins', sans-serif;
+    text-align:center;
+}
+
+
+.main{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    margin-top: 20px;
+    width: 100vw;
+    grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+    column-gap: 100px;
+    row-gap: 30px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+body{
+    height: 100vh;
+    overflow-x: scroll;
+}
+.h4{
+    font-size: 50px;
+    color: rgb(15, 11, 5);
+    font-family: 'Poppins', sans-serif;
+    text-align:left;
+}
+.h2{
+    font-size: 50px;
+    color: rgb(15, 11, 5);
+    font-family: 'Poppins', sans-serif;
+    text-align:center;
+}
+.h3{
+    font-size:50px;
+    color: rgb(15, 11, 5);
+    font-family: 'Poppins', sans-serif;
+    text-align:right;
+}
+@media only  screen and (min-width:481px) and (max-width:768px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .h1{
+        font-size: 25px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:center;
+    }
+    
+    
+    .main{
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        margin-top: 20px;
+        width: 100vw;
+        grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+        column-gap: 100px;
+        row-gap: 30px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        object-position: center;
+    }
+    body{
+        height: 100vh;
+        overflow-x: scroll;
+    }
+    .h4{
+        font-size: 50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:left;
+    }
+    .h2{
+        font-size: 50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:center;
+    }
+    .h3{
+        font-size:50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:right;
+    }
+}
+@media only  screen and (min-width:320px) and (max-width:482px)
+{
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .h1{
+        font-size: 25px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:center;
+    }
+    
+    
+    .main{
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        margin-top: 20px;
+        width: 100vw;
+        grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+        column-gap: 100px;
+        row-gap: 30px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        object-position: center;
+    }
+    body{
+        height: 100vh;
+        overflow-x: scroll;
+    }
+    .h4{
+        font-size: 50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:left;
+    }
+    .h2{
+        font-size: 50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:center;
+    }
+    .h3{
+        font-size:50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:right;
+    }
+}
+@media only  screen and (min-width:769px) and (max-width:1024px)
+{
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .h1{
+        font-size: 25px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:center;
+    }
+    
+    
+    .main{
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        margin-top: 20px;
+        width: 100vw;
+        grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+        column-gap: 100px;
+        row-gap: 30px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        object-position: center;
+    }
+    body{
+        height: 100vh;
+        overflow-x: scroll;
+    }
+    .h4{
+        font-size: 50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:left;
+    }
+    .h2{
+        font-size: 50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:center;
+    }
+    .h3{
+        font-size:50px;
+        color: rgb(15, 11, 5);
+        font-family: 'Poppins', sans-serif;
+        text-align:right;
+    }
+}

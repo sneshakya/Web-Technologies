@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+body{
+     background-attachment: fixed;/*applies to whole */
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    background:linear-gradient(to left ,white, violet,rgb(131, 61, 152))
+    
+
+}
+#p1{
+    font-size: 30px;
+    color: rgb(64, 155, 220);
+    background-color: bisque;
+    font-family: 'Cinzel', serif;
+    border-style: dotted;
+    width: 1000px;
+    height: 300px;
+    margin: 300px;
+    padding: 30px;
+}
+#p2{
+    font-size: 30px;
+    background-color: rgb(218, 209, 164);
+    color: rgb(0, 3, 102);
+    font-family: 'Cinzel', serif;
+    border-style: dotted;
+    width: 1000px;
+    height: 300px;
+    margin: 300px;
+    margin-left: 1000px;
+    padding: 40px;
+
+}
+#p3{
+    font-size: 30px;
+    background-color: rgb(255, 238, 187);
+    color: rgb(0, 96, 181);
+    font-family: 'Cinzel', serif;
+    border-style: dotted;
+    width: 1000px;
+    height: 300px;
+    margin: 350px;
+    margin-right: 1000px;
+}

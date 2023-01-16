@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script&family=Poppins:ital,wght@1,200&display=swap');
+.p1{
+    font-size: 19px;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    font-weight:100;
+}
+.h1{
+    font-size: 19px;
+    color: rgb(255, 253, 251);
+    font-family: 'Abril Fatface', cursive;
+}
+.h2{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(114, 6, 89);
+}
+.h4{
+    font-size: 19px;
+    color: rgb(137, 11, 79);
+    font-family: 'Poppins', sans-serif;
+}
+.button {
+    margin-top: 20px;
+  }
+  .button a {
+    display: inline-block;
+    padding: 10px 50px;
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 800;
+    transition: all 0.5s ease;
+  }
+  
+  
+  @media only  screen and (min-width:481px) and (max-width:768px){
+    .p1{
+        font-size: 19px;
+        color: antiquewhite;
+        font-family: 'Poppins', sans-serif;
+        font-weight:100;
+    }
+    .h1{
+        font-size: 19px;
+        color: rgb(255, 253, 251);
+        font-family: 'Abril Fatface', cursive;
+    }
+    .h2{
+        font-family: 'Dancing Script', cursive;
+        color: rgb(114, 6, 89);
+    }
+    .p2{
+        font-size: 19px;
+        color: rgb(137, 11, 79);
+        font-family: 'Poppins', sans-serif;
+    }
+    .button {
+        margin-top: 20px;
+      }
+      .button a {
+        display: inline-block;
+        padding: 10px 50px;
+        background: rgb(255, 255, 255);
+        border-radius: 30px;
+        text-decoration: none;
+        color: black;
+        font-size: 18px;
+        line-height: 1.4;
+        font-weight: 800;
+        transition: all 0.5s ease;
+      }
+  }
+@media only  screen and (min-width:320px) and (max-width:482px){.p1{
+    font-size: 19px;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    font-weight:100;
+}
+.h1{
+    font-size: 19px;
+    color: rgb(255, 253, 251);
+    font-family: 'Abril Fatface', cursive;
+}
+.h2{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(114, 6, 89);
+}
+.p2{
+    font-size: 19px;
+    color: rgb(137, 11, 79);
+    font-family: 'Poppins', sans-serif;
+}
+.button {
+    margin-top: 20px;
+  }
+  .button a {
+    display: inline-block;
+    padding: 10px 50px;
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 800;
+    transition: all 0.5s ease;
+  }
+}
+@media only  screen and (min-width:769px) and (max-width:1024px){.p1{
+    font-size: 19px;
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    font-weight:100;
+}
+.h1{
+    font-size: 19px;
+    color: rgb(255, 253, 251);
+    font-family: 'Abril Fatface', cursive;
+}
+.h2{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(114, 6, 89);
+}
+.p2{
+    font-size: 19px;
+    color: rgb(137, 11, 79);
+    font-family: 'Poppins', sans-serif;
+}
+.button {
+    margin-top: 20px;
+  }
+  .button a {
+    display: inline-block;
+    padding: 10px 50px;
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 800;
+    transition: all 0.5s ease;
+  }
+}
