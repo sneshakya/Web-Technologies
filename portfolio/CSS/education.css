@@ -1,0 +1,256 @@
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+    nav ul li{
+        display: inline-block;
+        list-style: none;
+        margin-right: 50px;
+    }
+    nav ul li a{
+        text-decoration: none;
+        color: #1790ab;
+        font-weight: bold;
+    }
+    nav ul li a:hover{
+        color:#a75e66;
+    }
+    .h1{
+        font-size: 40px;
+        font: weight 500px;
+        font-family: 'Nanum Myeongjo', serif;
+        color: #1790ab;
+        margin-bottom: 0%;
+        text-align:center;
+
+    }
+    .main{
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        margin-top: 20px;
+        width: 100vw;
+        grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+        column-gap: 20px;
+        row-gap: 30px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .herald{
+        font-size: 40px;
+        color: #9de159;
+        font-family: 'Dosis', sans-serif;
+        text-align:left;
+    }
+    .lri{
+        font-size: 40px;
+        color: rgb(208, 83, 156);
+        font-family: 'Dosis', sans-serif;
+        text-align:center;
+    }
+    
+    /* laptop */
+@media only screen and (min-width:769px) and (max-width:1024px){
+    @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Nanum+Myeongjo:wght@700&display=swap');
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+    nav ul li{
+        display: inline-block;
+        list-style: none;
+        margin-right: 50px;
+    }
+    nav ul li a{
+        text-decoration: none;
+        color: #1790ab;
+        font-weight: bold;
+    }
+    nav ul li a:hover{
+        color:#a75e66;
+    }
+    .h1{
+        font-size: 40px;
+        font: weight 500px;
+        font-family: 'Nanum Myeongjo', serif;
+        color: #1790ab;
+        margin-bottom: 0%;
+        text-align:center;
+
+    }
+    .main{
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        margin-top: 20px;
+        width: 100vw;
+        grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+        column-gap: 20px;
+        row-gap: 30px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .herald{
+        font-size: 40px;
+        color: #9de159;
+        font-family: 'Dosis', sans-serif;
+        text-align:left;
+    }
+    .lri{
+        font-size: 40px;
+        color: rgb(208, 83, 156);
+        font-family: 'Dosis', sans-serif;
+        text-align:center;
+    }
+}
+
+/* mobile */
+@media only screen and (min-width:320px) and (max-width:482px){@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Nanum+Myeongjo:wght@700&display=swap');
+    nav{
+        display: flex;
+        width: 84%;
+        margin: auto;
+        padding: 20px 0;
+        align-items: center;
+        justify-content: space-between;
+        }
+        
+        nav ul li{
+            display: inline-block;
+            list-style: none;
+            margin-right: 50px;
+        }
+        nav ul li a{
+            text-decoration: none;
+            color: #1790ab;
+            font-weight: bold;
+        }
+        nav ul li a:hover{
+            color:#a75e66;
+        }
+        .h1{
+            font-size: 40px;
+            font: weight 500px;
+            font-family: 'Nanum Myeongjo', serif;
+            color: #1790ab;
+            margin-bottom: 0%;
+            text-align:center;
+    
+        }
+        .main{
+            position: absolute;
+            justify-content: center;
+            align-items: center;
+            display: grid;
+            margin-top: 20px;
+            width: 100vw;
+            grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+            column-gap: 20px;
+            row-gap: 30px;
+        }
+        img{
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+            object-position: center;
+        }
+        .herald{
+            font-size: 40px;
+            color: #9de159;
+            font-family: 'Dosis', sans-serif;
+            text-align:left;
+        }
+        .lri{
+            font-size: 40px;
+            color: rgb(208, 83, 156);
+            font-family: 'Dosis', sans-serif;
+            text-align:center;
+        }
+    }
+
+/* tablets */
+@media only screen and (min-width:481px) and (max-width:768px){
+    @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Nanum+Myeongjo:wght@700&display=swap');
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+    nav ul li{
+        display: inline-block;
+        list-style: none;
+        margin-right: 50px;
+    }
+    nav ul li a{
+        text-decoration: none;
+        color: #1790ab;
+        font-weight: bold;
+    }
+    nav ul li a:hover{
+        color:#a75e66;
+    }
+    .h1{
+        font-size: 40px;
+        font: weight 500px;
+        font-family: 'Nanum Myeongjo', serif;
+        color: #1790ab;
+        margin-bottom: 0%;
+        text-align:center;
+
+    }
+    .main{
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        display: grid;
+        margin-top: 20px;
+        width: 100vw;
+        grid-template-columns: repeat(auto-fill,minmax(300px,300px));
+        column-gap: 20px;
+        row-gap: 30px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .herald{
+        font-size: 40px;
+        color: #9de159;
+        font-family: 'Dosis', sans-serif;
+        text-align:left;
+    }
+    .lri{
+        font-size: 40px;
+        color: rgb(208, 83, 156);
+        font-family: 'Dosis', sans-serif;
+        text-align:center;
+    }
+}
+   
