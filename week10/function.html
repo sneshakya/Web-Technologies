@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Function</title>
+    <style>
+        .color-change{
+            background-color: rgb(65, 65, 65);
+            color: rgb(255, 255, 255);
+        }
+    </style>
+</head>
+<body>
+    <!-- dark mode and light mode theme creation -->
+    <h2>Toggle dark and light mode.</h2>
+    <p>click the button to change the mode.</p>
+    <button onclick="theme()">Click Here!</button>
+    <script>
+        function theme(){
+            var element = document.body;
+            element.classList.toggle("color-change");
+        }
+    </script>
+    <!-- .................................................................................... -->
+    
+    <!-- <script src="js/function.js"></script> -->
+</body>
+</html>

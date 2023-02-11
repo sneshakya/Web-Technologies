@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constructor</title>
+</head>
+<body>
+   <script>
+    function user(){
+        this.name = "Sneha"
+        this.age = 19;
+    }
+    var user1 =  new user();
+    console.log(user1);
+    function otheruser(name, age){
+        this.name = name;
+        this.age = age;
+    }
+    var user2= new otheruser("sneha", 19);
+    var user3= new otheruser("Hisi", 19);
+    console.log(user2);
+    console.log(user3);
+
+   </script> 
+</body>
+</html>
